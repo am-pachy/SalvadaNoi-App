@@ -1,3 +1,8 @@
+import Movimenti from "./components/Movimenti";
+import Debiti from "./components/Debiti";
+import Saldo from "./components/Saldo";
+import Budget from "./components/Budget";
+import Obiettivi from "./components/Obiettivi"
 import { useEffect, useState } from 'react';
 import LoginScreen from './LoginScreen';
 import { MainApp } from './components/MainApp';
